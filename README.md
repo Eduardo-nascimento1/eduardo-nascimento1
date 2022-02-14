@@ -17,3 +17,10 @@ Ola meu nome e Eduardo Brito 👋
 </div>
 
   
+##
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/eduardo-brito-33401722a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
