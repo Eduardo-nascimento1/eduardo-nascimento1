@@ -22,5 +22,9 @@ Ola meu nome e Eduardo Brito 👋
   <div> 
   <a href="https://www.linkedin.com/in/eduardo-brito-33401722a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  [Snake animation](https://github.com/Eduardo-nascimento1
+Eduardo-nascimento1
+/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
